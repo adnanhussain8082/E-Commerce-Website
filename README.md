@@ -1,59 +1,42 @@
-## Project Name- E-Commerce-Website
 
-## Resources used:
-   - JavaScript
-   - React.js
-   - Node.js
-   - Express.js
-   - MongoDB
-   - Paypal
+# E-Commerce-Website
 
-## Please watch this project demo and explanation video :
-- Click Above Thumbnail
-[![E-Commerce-Website](https://img.youtube.com/vi/0CCjuMfcECY/0.jpg)](https://www.youtube.com/watch?v=0CCjuMfcECY)
+An end-to-end e-commerce platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js). This project features a modern online shopping experience, including user authentication, product management, order processing, and payment integration with PayPal.
 
-## Below you will find sample images :)
+## Features
+- User registration and authentication
+- Product listing, search, and filtering
+- Shopping cart and checkout process
+- Order history and order management
+- Admin dashboard for managing products, users, and orders
+- Payment integration with PayPal
 
-![](frontend/public/images/01.png)
+## Tech Stack
+- Frontend: React.js
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Payment: PayPal
 
+## Getting Started
 
-### CODE
+To run the project locally:
 
-![](frontend/public/images/5.png)
+1. Install dependencies for both frontend and backend:
+   - Navigate to the `backend` and `frontend` folders and run `npm install` in each.
+2. Start the backend server:
+   - In the `backend` folder, run `npm start` or `node server.js`.
+3. Start the frontend React app:
+   - In the `frontend` folder, run `npm start`.
 
-![](frontend/public/images/6.png)
+The frontend will be available at [http://localhost:3000](http://localhost:3000) and the backend at [http://localhost:5000](http://localhost:5000) by default.
 
+## License
 
-### OVERVIEW
+This project is open source and available under the MIT License.
 
-![](frontend/public/images/02.png)
+---
 
-![](frontend/public/images/7.png)
-
-![](frontend/public/images/8.png)
-
-![](frontend/public/images/9.png)
-
-![](frontend/public/images/10.png)
-
-![](frontend/public/images/11.png)
-
-![](frontend/public/images/12.png)
-
-
-![](frontend/public/images/13.png)
-
-
-![](frontend/public/images/14.png)
-
-
-![](frontend/public/images/03.png)
-
-
-## To Start Project Enter below cammand: 
-- npm start
-
-### THANK YOU SO MUCH
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 # Getting Started with Create React App
